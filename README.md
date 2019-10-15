@@ -1,17 +1,23 @@
 # Docker helper command list
 
-docker-compose up -d
+```docker-compose up -d```
 
-docker-compose start
 
-docker-compose stop
+```docker-compose start```
 
-docker-sync start
 
-docker-compose run deploy bash
+```docker-compose stop```
 
-docker-compose --verbose run deploy bash
 
-docker-compose ps
+```docker-sync start```
+
+
+```docker-compose run deploy bash```
+
+
+```docker-compose --verbose run deploy bash```
+
+
+```docker-compose ps```
 
 
